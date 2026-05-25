@@ -5,15 +5,19 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: João Paulo de Castro
+- Matricula: 908161
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+#### LISTAGEM DE TÍTULOS
+![listagem de títulos](/public/imgs/listagem-titulos.png)
 
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+#### MÉDIAS
+![médias](/public/imgs/medias-img.png)
 
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
+#### VERIFICAÇÕES (SOME E EVERY)
+![some e every](/public/imgs/some-every.png)
 
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+#### RESUMO
+![resumo](/public/imgs/resumo.png)
